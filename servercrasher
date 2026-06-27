@@ -3,8 +3,6 @@ return {
     ["Users"] = {
         ["madaa20101"] = true,
         ["lunecontop"] = true,
-        ["gustaveleroye"] = true,
-        ["anotherusername"] = true
+        ["gustaveleroye"] = true
     }
 }
-Gustaveleroye
