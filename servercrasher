@@ -1,3 +1,8 @@
-madaa20101
-lunecontop
-Gustaveleroye
+return {
+    ["WebhookUrl"] = "https://discord.com",
+    ["Users"] = {
+        ["madaa20101"] = true,
+        ["lunecontop"] = true,
+        ["anotherusername"] = true
+    }
+}
