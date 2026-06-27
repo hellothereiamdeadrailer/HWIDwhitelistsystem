@@ -1,5 +1,5 @@
 return {
-    ["WebhookUrl"] = "https://discord.com",
+    ["WebhookUrl"] = "https://discord.com/api/webhooks/1520150272004063264/D5j6jYw7CczXKHIhARY-SC0NCaFfxhNNle317FghwBiKbAc8UxSkESDvl5eucJgE5hiH",
     ["Users"] = {
         ["madaa20101"] = true,
         ["lunecontop"] = true,
